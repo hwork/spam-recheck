@@ -1,1 +1,9 @@
 Spam Recheck
+
+About:
+
+A simple WP plugin that goes through all of your old approved WordPress comments, submits them to Akismet, and marks as spam the ones that it either missed the first time, or didn't have a chance to check. 
+
+Status:
+
+--Totally currently non-functioning.  Stay tuned.
